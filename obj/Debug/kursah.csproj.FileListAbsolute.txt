@@ -1,0 +1,162 @@
+D:\Универ\4 семестр\Курсач\kursah\bin\Debug\kursah.exe
+D:\Универ\4 семестр\Курсач\kursah\bin\Debug\kursah.pdb
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.Form1.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.Properties.Resources.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.exe
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.pdb
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormAttestation.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormTeacher.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormStudents.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormSpeciality.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormAdministrator.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormTable.resources
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormGosty.resources
+D:\Универ\4 семестр\Курсач\kursah\bin\Debug\kursah.exe.config
+D:\Универ\4 семестр\Курсач\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Универ\4 семестр\Курсач\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.csproj.CopyComplete
+D:\Универ\4 семестр\Курсач\kursah\obj\Debug\kursah.FormOtchet.resources
+C:\Users\schen\Downloads\kursah\kursah\bin\Debug\kursah.exe.config
+C:\Users\schen\Downloads\kursah\kursah\bin\Debug\kursah.exe
+C:\Users\schen\Downloads\kursah\kursah\bin\Debug\kursah.pdb
+C:\Users\schen\Downloads\kursah\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\schen\Downloads\kursah\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormAdministrator.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormAttestation.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormOtchet.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormSpeciality.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormStudents.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormTable.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.FormTeacher.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.Properties.Resources.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.csproj.CopyComplete
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.exe
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.pdb
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.MainMenu.resources
+C:\Users\schen\Downloads\kursah\kursah\obj\Debug\kursah.Students.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\bin\Debug\kursah.exe.config
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\bin\Debug\kursah.exe
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\bin\Debug\kursah.pdb
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.MainMenu.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormAdministrator.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormAttestation.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.Students.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormOtchet.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormSpeciality.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormStudents.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormTable.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.FormTeacher.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.Properties.Resources.resources
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.csproj.CopyComplete
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.exe
+C:\Users\schen\OneDrive\Рабочий стол\kursah\kursah\obj\Debug\kursah.pdb
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\bin\Debug\kursah.exe.config
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\bin\Debug\kursah.exe
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\bin\Debug\kursah.pdb
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.MainMenu.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormAdministrator.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormAttestation.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.Students.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormOtchet.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormSpeciality.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormStudents.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormTable.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.FormTeacher.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.Properties.Resources.resources
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.csproj.CopyComplete
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.exe
+C:\Users\Ксения\OneDrive\Рабочий стол\kursah-20230508T163009Z-001\kursah\obj\Debug\kursah.pdb
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\kursah.exe.config
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\kursah.exe
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\kursah.pdb
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.MainMenu.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormAdministrator.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormAttestation.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.Students.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormSpeciality.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormStudents.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormTable.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormTeacher.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.Properties.Resources.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.csproj.CopyComplete
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.exe
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.pdb
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\EPPlus.dll
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\EPPlus.Interfaces.dll
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\EPPlus.System.Drawing.dll
+D:\Универ\4 семестр\курсач2.0\kursah\bin\Debug\EPPlus.xml
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.FormUspevaemost.resources
+D:\Универ\4 семестр\курсач2.0\kursah\obj\Debug\kursah.Form.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.exe.config
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.exe
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.pdb
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.dll
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.Interfaces.dll
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.System.Drawing.dll
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.xml
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormUspevaemost.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.MainMenu.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormAdministrator.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormAttestation.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Students.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Form.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormSpeciality.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormStudents.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormTable.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormTeacher.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Properties.Resources.resources
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.CopyComplete
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.exe
+D:\Универ\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.pdb
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.exe.config
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.exe
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\kursah.pdb
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.dll
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.Interfaces.dll
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.System.Drawing.dll
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\bin\Debug\EPPlus.xml
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.AssemblyReference.cache
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormUspevaemost.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.MainMenu.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormAdministrator.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormAttestation.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Students.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Form.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormSpeciality.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormStudents.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormTable.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.FormTeacher.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.Properties.Resources.resources
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.GenerateResource.cache
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.CoreCompileInputs.cache
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.csproj.CopyComplete
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.exe
+D:\Универ\2 курс\4 семестр\курсач2.0\курсач2.0\kursah\obj\Debug\kursah.pdb
